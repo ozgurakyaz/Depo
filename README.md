@@ -1,0 +1,2 @@
+# depo
+Burasi bir depodur
